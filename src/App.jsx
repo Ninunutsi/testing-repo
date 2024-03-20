@@ -20,6 +20,7 @@ function App() {
     <div>
       <button ref={ref}>{value}</button>
       <p>hello world</p>
+      <h1></h1>
     </div>
   );
 }
